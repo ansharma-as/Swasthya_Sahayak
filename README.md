@@ -1,5 +1,4 @@
 ## 🏥स्वास्थ्य सहायक (Swasthya Sahayak)
-Google Girl Hackathon - Ideathon Round Submission
 
 ## OVERVIEW
 
